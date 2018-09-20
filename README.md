@@ -10,3 +10,11 @@
 **Currently in ALPHA**
 
 Sample of bot [here](https://t.me/a_lehabot)
+
+# How to run?
+`$ screen -X bot`
+
+`$ php index.php`
+
+Bot requires php 7
+
